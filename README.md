@@ -45,8 +45,8 @@ Mobile Player
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/r2hu1/musichub.git
-cd musichub
+git clone https://github.com/r2hu1/musiclab.git
+cd musiclab
 ```
 
 2. Install dependencies:
